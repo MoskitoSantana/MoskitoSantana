@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing on my career<br>👯 I’m looking to collaborate on cybersecurity tools development and arma 3 mods<br>🤝 I’m looking for real experience projects<br>
+🔭 I am currently studying my last year of cybersecurity engineering at the University of Computer Sciences of Cuba.<br>👯 I am interested in collaborating on projects with anyone who is interested in working as a team.<br>🤓 I am currently developing skills in network and server administration, deployment and development of containers as well as network traffic monitoring, hardening of operating systems, networks, osint as well as attack surface recognition. I love programming, I mostly use Python as well as C++ or Powershell/bash, or any language that suits my needs. <br> 🤝  Happy to discuss topics of history, programming, cybersecurity, video games or digital art, and if there is programming linked to these topics, much better <br>
 
 
 # 💻 Tech Stack:
