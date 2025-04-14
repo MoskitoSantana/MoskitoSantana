@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Cybersecurity engineer graduated from the University of Computer Sciences of Cuba.<br>👯 I am interested in collaborating on projects with anyone who is interested in working as a team.<br>🤓 I am currently developing skills in network and server administration, deployment and development of containers as well as network traffic monitoring, hardening of operating systems, networks, osint as well as attack surface recognition. I love programming, I mostly use Python as well as C++ or Powershell/bash, or any language that suits my needs. <br> 🤝  Happy to discuss topics of history, programming, cybersecurity, video games or digital art, and if there is programming linked to these topics, much better <br>
+🔭Cybersecurity engineer graduated from the University of Computer Sciences of Cuba.<br>👯 I am interested in collaborating on projects with anyone who is interested in working as a team.<br>🤓 Currently focused on Cybersecurity Architecture, Incident Response and Forensics, OSINT as well as attack surface recognition. I love programming, I mostly use Python as well as C++ or Powershell/bash, or any language that suits my needs. <br> 🤝  Happy to discuss topics of history, programming, cybersecurity, video games or digital art, and if there is programming linked to these topics, much better <br>
 
 
 # 💻 Tech Stack:
